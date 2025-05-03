@@ -2,8 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
-			<item value="C:\DevSecOps\MavenProj01\pom.xml"/>
 			<item value="C:\DevSecOps\MavenProj01"/>
+			<item value="C:\DevSecOps\MavenProj01\pom.xml"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -33,6 +33,7 @@
 			<item value="nit"/>
 		</list>
 		<list key="artifactId">
+			<item value="MavenProj03"/>
 			<item value="MavenProj02"/>
 		</list>
 		<list key="projectNameTemplate">
