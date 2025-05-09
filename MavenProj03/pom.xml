@@ -41,11 +41,12 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-    <groupId>org-nit</groupId>
-  	<artifactId>MavenProj01</artifactId>
-  	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
     
+  <groupId>org-nit</groupId>
+  <artifactId>MavenProj01</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+    </dependency>
   </dependencies>
 
   <build>

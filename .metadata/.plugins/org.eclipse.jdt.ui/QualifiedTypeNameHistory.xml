@@ -2,4 +2,7 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.sun.tools.javac.resources.compiler"/>
     <fullyQualifiedTypeName name="com.nt.main.AppTest"/>
+    <fullyQualifiedTypeName name="com.nt.service.Arithmetic"/>
+    <fullyQualifiedTypeName name="com.nt.service.Arthmetic"/>
+    <fullyQualifiedTypeName name="com.sun.java.swing.plaf.windows.TMSchema.State"/>
 </qualifiedTypeNameHistroy>
